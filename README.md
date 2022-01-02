@@ -1,8 +1,9 @@
 https://maciej0o.github.io/FM-3-column-preview-card/
 
-
+Html and css exercises, creating an element based on a project
 
 # Frontend Mentor - 3-column preview card component
+
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
